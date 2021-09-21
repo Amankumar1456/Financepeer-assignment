@@ -1,6 +1,6 @@
 # Financepeer-assignment
 ## 🗒️Introduction
-Spring-boot application to upload JSON data using JPA to Postresql DB.
+Spring-boot application to upload JSON data using JPA/Hibernate to Postresql DB.
 ## ⚙️Installation
 ## Requirements ✔️
 * Spring-Boot
